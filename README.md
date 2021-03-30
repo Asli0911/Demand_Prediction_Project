@@ -33,3 +33,4 @@ Then in the model building task, build your model appropriate and compare the tr
 When making prediction, you will need to do the inverse transform process to get a true error score. Otherwise, the results you get with scaled target variables may mislead you.
 
 Finally, Visualize how well your model's predictions match the actual values of the test data and also calculate error scores.
+
